@@ -1,0 +1,1 @@
+this script will take screen shots of urls. the script is dependent on firefox,xte,Xvfb, and a place to copy the screenshots ( such as AWS, etc)

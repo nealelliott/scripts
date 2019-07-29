@@ -1,4 +1,9 @@
 #!/bin/bash
+# 
+#
+# this is a stupid recursive multiplcation function using addition
+#
+# 
 
 rec() {
 	if [ $1 -lt $2 ]
